@@ -17,5 +17,3 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,py,django,fastapi,git,docker,linux,vscode&perline=12" />
   </a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silas-andrade&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="silas-andrade" /></p>
