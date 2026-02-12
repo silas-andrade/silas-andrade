@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ecommerce-api-django](https://github.com/silas-andrade/ecommerce-api-django)
 - 🌱 I’m currently learning **Django and Java**
-- 👨‍💻 All of my projects are available at [silasandrade.vercel.app](silasandrade.vercel.app)
+- 👨‍💻 All of my projects are available at [silasandrade.vercel.app](https://silasandrade.vercel.app)
 - 📫 How to reach me **silasandradee@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
